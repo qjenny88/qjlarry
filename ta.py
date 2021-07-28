@@ -1,4 +1,5 @@
-import ccxt, yfinance
+import ccxt
+import yfinance
 import pandas_ta as ta
 import panda as pd
 
